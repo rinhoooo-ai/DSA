@@ -6,6 +6,7 @@
 using namespace std;
 
 // Problem: Flight Discount (CSES)
+// Description: Find the shortest path from node 1 to node n with a 50% discount on one edge.
 // Algorithm: Use 2 Dijkstra: from start and from end (reversed graph)
 // Time complexity: O((n+m) log n)
 // Author: Hung Dang Pham
